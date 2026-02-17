@@ -1,5 +1,11 @@
 # 💫 About Me:
-Having a clean and appealing GitHub profile feels waayy better when you’re trying to show that you’re serious about coding. Don’t let it just be superficial! After having a pretty GitHub profile, don’t forget to nurture it daily
+👋 Hi, I'm Vignesh
+
+🚀 Full Stack Developer | 📱 React Native | 🌐 Scalable Web & Mobile Apps Builder
+
+I help startups and businesses build high-performance mobile and web applications using modern technologies like React Native, React.js, Node.js, AWS  Services and SQL.
+
+With hands-on experience in AdTech, Networking, Education, Media and Entertainment, Banking, E-commerce apps, booking systems, OTT-style platforms, SaaS products, and API-driven applications, I focus on delivering clean architecture, scalable solutions, and production-ready code.
 
 
 ## 🌐 Socials:
